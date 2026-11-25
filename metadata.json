@@ -1,0 +1,6 @@
+{
+  "name": "HUMALYSIS.AI",
+  "description": "Platform evaluasi efektivitas kampanye Hubungan Masyarakat berbasis Output, Outtakes, dan Outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
